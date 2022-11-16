@@ -1,1 +1,1 @@
-# simple_shell
+# simple_shell project by Edgar Nwajei and Destiny Egharevba
